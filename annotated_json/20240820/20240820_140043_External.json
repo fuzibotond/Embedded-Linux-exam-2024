@@ -1,0 +1,17 @@
+{
+  "File Name": "20240820_140043_External.jpg",
+  "Create Date": "2024-08-20 14:00:46.049+0200",
+  "Create Seconds Epoch": 1724155246.052,
+  "Trigger": "External",
+  "Subject Distance": 0.5574136009,
+  "Exposure Time": "1/33",
+  "ISO": 200,
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": 1724155257
+  },
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " Two ducks, one near the other, sitting on a book. "
+  }
+}
