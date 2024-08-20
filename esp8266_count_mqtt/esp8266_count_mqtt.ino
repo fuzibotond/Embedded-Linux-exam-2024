@@ -3,12 +3,12 @@
 
 // Configuration
 #define WIFI_SSID       "H158-381_4C0D"
-#define WIFI_PASSWORD    ""
+#define WIFI_PASSWORD    "NbgN9BR7YB7"
 #define MQTT_SERVER      "192.168.8.32"
 #define MQTT_SERVERPORT  1883 
 #define MQTT_USERNAME    ""
 #define MQTT_KEY         ""
-#define MQTT_TOPIC       "/wildlife/trigger"  
+#define MQTT_TOPIC       "wildlife/trigger"  
 
 // WiFi
 #include <ESP8266WiFiMulti.h>
