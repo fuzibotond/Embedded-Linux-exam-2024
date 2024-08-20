@@ -1,7 +1,7 @@
 {
-  "File Name": "20240820_125500_Time.jpg",
-  "Create Date": "2024-08-20 12:55:02.902+0200",
-  "Create Seconds Epoch": 1724151302.904,
+  "File Name": "20240820_131500_Time.jpg",
+  "Create Date": "2024-08-20 13:15:09.070+0200",
+  "Create Seconds Epoch": 1724152509.073,
   "Trigger": "Time",
   "Subject Distance": 0.5574136009,
   "Exposure Time": "1/33",
@@ -12,6 +12,6 @@
   },
   "Annotation": {
     "Source": "Ollama:7b",
-    "Text": " Rubber duck on the top of a magazine. "
+    "Text": " Rubber duck with a book in the background. "
   }
 }
