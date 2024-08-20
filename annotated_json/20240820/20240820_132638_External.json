@@ -1,8 +1,8 @@
 {
-  "File Name": "20240820_130500_Time.jpg",
-  "Create Date": "2024-08-20 13:05:05.579+0200",
-  "Create Seconds Epoch": 1724151905.581,
-  "Trigger": "Time",
+  "File Name": "20240820_132638_External.jpg",
+  "Create Date": "2024-08-20 13:26:40.118+0200",
+  "Create Seconds Epoch": 1724153200.12,
+  "Trigger": "External",
   "Subject Distance": 0.5574136009,
   "Exposure Time": "1/33",
   "ISO": 200,
@@ -12,6 +12,6 @@
   },
   "Annotation": {
     "Source": "Ollama:7b",
-    "Text": " A rubber duck sitting on a book. "
+    "Text": " Duck figurine on top of a book. "
   }
 }
