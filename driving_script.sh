@@ -35,9 +35,9 @@ create_json() {
     "Create Date": "$(date +"%Y-%m-%d %H:%M:%S.%3N%z")",
     "Create Seconds Epoch": "$(date +%s.%3N)",
     "Trigger": "$trigger_type",
-    "Subject Distance": 0.0,  # Modify if you have actual data
-    "Exposure Time": "1/33",  # Modify if you have actual data
-    "ISO": 200  # Modify if you have actual data
+    "Subject Distance": 0.0,  
+    "Exposure Time": "1/33",  
+    "ISO": 200  
 }
 EOF
 }
@@ -91,4 +91,5 @@ while true; do
     fi
 
     sleep 1
+
 done

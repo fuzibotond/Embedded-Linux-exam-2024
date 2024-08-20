@@ -1,0 +1,36 @@
+INFO:root:Received message on topic wildlife/trigger: {"wiper_angle": 90, "rain_detect": true}
+INFO:root:Valid JSON received. Executing take_photo.sh with 'External'
+INFO:root:Received message on topic /wildlife/trigger: 1
+INFO:root:Received message on topic /wildlife/trigger: 1
+INFO:root:Received message on topic /wildlife/trigger: 1
+INFO:root:Trigger received. Executing take_photo.sh with 'External'
+INFO:root:Received message on topic /wildlife/trigger: 1
+INFO:root:Trigger received. Executing take_photo.sh with 'External'
+INFO:root:Received message on topic /wildlife/trigger: 1
+INFO:root:Trigger received. Executing take_photo.sh with 'External'
+INFO:root:Received message on topic /wildlife/trigger: 1
+INFO:root:Trigger received. Executing take_photo.sh with 'External'
+INFO:root:Received message on topic /wildlife/trigger: 1
+INFO:root:Trigger received. Executing take_photo.sh with 'External'
+INFO:root:Received message on topic /wildlife/trigger: 1
+INFO:root:Trigger received. Executing take_photo.sh with 'External'
+INFO:root:Received message on topic /wildlife/trigger: 1
+INFO:root:Trigger received. Executing take_photo.sh with 'External'
+INFO:root:Received message on topic /wildlife/trigger: 1
+INFO:root:Trigger received. Executing take_photo.sh with 'External'
+INFO:root:Received message on topic /wildlife/trigger: 1
+INFO:root:Trigger received. Executing take_photo.sh with 'External'
+INFO:root:Received message on topic /wildlife/trigger: 1
+INFO:root:Trigger received. Executing take_photo.sh with 'External'
+INFO:root:Received message on topic /wildlife/trigger: 1
+INFO:root:Trigger received. Executing take_photo.sh with 'External'
+INFO:root:Received message on topic /wildlife/trigger: 1
+INFO:root:Trigger received. Executing take_photo.sh with 'External'
+INFO:root:Received message on topic /wildlife/trigger: 1
+INFO:root:Trigger received. Executing take_photo.sh with 'External'
+INFO:root:Received message on topic /wildlife/trigger: 1
+INFO:root:Trigger received. Executing take_photo.sh with 'External'
+INFO:root:Received message on topic /wildlife/trigger: 1
+INFO:root:Trigger received. Executing take_photo.sh with 'External'
+INFO:root:Received message on topic /wildlife/trigger: 1
+INFO:root:Trigger received. Executing take_photo.sh with 'External'

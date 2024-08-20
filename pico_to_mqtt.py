@@ -5,12 +5,12 @@ import time
 import logging
 
 
-# Use /dev/ttyACM0 instead of /dev/serial0
+
 ser = serial.Serial('/dev/ttyACM0', 115200, timeout=1)
 
 # Initialize MQTT client
 client = mqtt.Client()
-client.connect("192.168.8.32", 1883, 60)  # Replace with your Pi's IP address
+client.connect("192.168.8.32", 1883, 60)
 
 last_rain_state = None  # Track the last state to prevent duplicate messages
 # Configure logging

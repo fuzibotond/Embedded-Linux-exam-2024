@@ -1,0 +1,17 @@
+{
+  "File Name": "20240820_132000_Time.jpg",
+  "Create Date": "2024-08-20 13:20:05.644+0200",
+  "Create Seconds Epoch": 1724152805.648,
+  "Trigger": "Time",
+  "Subject Distance": 0.5574136009,
+  "Exposure Time": "1/33",
+  "ISO": 200,
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": 1724156124
+  },
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " Rubber duck on book, book has cover of forest and sky. "
+  }
+}

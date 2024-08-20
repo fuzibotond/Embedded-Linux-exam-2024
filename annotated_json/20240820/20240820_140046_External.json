@@ -1,0 +1,17 @@
+{
+  "File Name": "20240820_140046_External.jpg",
+  "Create Date": "2024-08-20 14:00:48.139+0200",
+  "Create Seconds Epoch": 1724155248.143,
+  "Trigger": "External",
+  "Subject Distance": 0.5574136009,
+  "Exposure Time": "1/33",
+  "ISO": 200,
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": 1724156124
+  },
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " Picture of two ducks, one rubber and the other a real one. "
+  }
+}
