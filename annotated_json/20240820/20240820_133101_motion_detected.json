@@ -8,7 +8,7 @@
   "ISO": 200,
   "Drone Copy": {
     "Drone ID": "WILDDRONE-001",
-    "Seconds Epoch": 1724154125
+    "Seconds Epoch": 1724154152
   },
   "Annotation": {
     "Source": "Ollama:7b",
