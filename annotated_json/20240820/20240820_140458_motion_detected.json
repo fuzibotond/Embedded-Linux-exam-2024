@@ -1,0 +1,17 @@
+{
+  "File Name": "20240820_140458_motion_detected.jpg",
+  "Create Date": "2024-08-20 14:05:08.782+0200",
+  "Create Seconds Epoch": "1724155508.790",
+  "Trigger": "Motion",
+  "Subject Distance": 0,
+  "Exposure Time": "1/33",
+  "ISO": 200,
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": 1724155631
+  },
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This is a picture of a Christmas card on a table, along with two rubber ducks and a calendar. "
+  }
+}
