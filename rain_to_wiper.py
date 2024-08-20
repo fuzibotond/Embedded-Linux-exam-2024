@@ -3,7 +3,7 @@ import serial
 import json
 import time
 
-# Use /dev/ttyACM0 instead of /dev/serial0
+
 ser = serial.Serial('/dev/ttyACM0', 115200, timeout=1)
 current_angle = 0
 last_rain_state = 0

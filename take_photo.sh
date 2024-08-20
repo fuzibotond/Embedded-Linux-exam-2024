@@ -5,19 +5,37 @@ TIMESTAMP=$(date +"%Y%m%d_%H%M%S")
 FILENAME="/home/fuzib/wildlife_camera/photos/${TIMESTAMP}_${ACTION}.jpg"
 JSONFILE="/home/fuzib/wildlife_camera/photos/${TIMESTAMP}_${ACTION}.json"
 
+# Function to capture photo with retries
+capture_photo() {
+    local retries=3
+    local count=0
+    while [ $count -lt $retries ]; do
+        libcamera-still -o "$FILENAME" --width 2304 --height 1296 --nopreview -t 1000
+        if [ $? -eq 0 ]; then
+            echo "Still capture image received"
+            return 0
+        else
+            echo "ERROR: Attempt $(($count + 1)) failed to capture image. Retrying..." >> "/home/fuzib/wildlife_camera/logs/driving_script.log"
+            count=$(($count + 1))
+            sleep 2  # Wait for 2 seconds before retrying
+        fi
+    done
+    echo "ERROR: Failed to capture image after $retries attempts." >> "/home/fuzib/wildlife_camera/logs/driving_script.log"
+    return 1
+}
+
 # Capture photo
-libcamera-still -o "$FILENAME" --width 2304 --height 1296 --nopreview -t 1000
+capture_photo
 
 if [ $? -eq 0 ]; then
-    echo "Still capture image received"
     echo "$(date) - Photo captured successfully for $ACTION detection." >> "/home/fuzib/wildlife_camera/logs/driving_script.log"
 
     # Get image metadata
     CREATE_DATE=$(date +"%Y-%m-%d %H:%M:%S.%3N%z")
     CREATE_SECONDS_EPOCH=$(date +%s.%3N)
-    SUBJECT_DISTANCE="0.5574136009"  # Replace with actual value if available
-    EXPOSURE_TIME="1/33"  # Replace with actual value if available
-    ISO=200  # Replace with actual value if available
+    SUBJECT_DISTANCE="0.5574136009"
+    EXPOSURE_TIME="1/33"
+    ISO=200
 
     # Create JSON metadata
     cat <<EOF > "$JSONFILE"
