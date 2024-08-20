@@ -1,7 +1,7 @@
 {
-  "File Name": "20240820_133000_Time.jpg",
-  "Create Date": "2024-08-20 13:30:02.604+0200",
-  "Create Seconds Epoch": 1724153402.607,
+  "File Name": "20240820_141500_Time.jpg",
+  "Create Date": "2024-08-20 14:15:02.731+0200",
+  "Create Seconds Epoch": 1724156102.733,
   "Trigger": "Time",
   "Subject Distance": 0.5574136009,
   "Exposure Time": "1/33",
@@ -12,6 +12,6 @@
   },
   "Annotation": {
     "Source": "Ollama:7b",
-    "Text": " Two rubber ducks are placed on the poster, one of them is a baby duck. "
+    "Text": " Image of a Christmas tree on top of a building. "
   }
 }
