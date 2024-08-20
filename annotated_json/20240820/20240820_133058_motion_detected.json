@@ -1,7 +1,7 @@
 {
-  "File Name": "20240820_132806_motion_detected.jpg",
-  "Create Date": "2024-08-20 13:28:14.774+0200",
-  "Create Seconds Epoch": "1724153294.779",
+  "File Name": "20240820_133058_motion_detected.jpg",
+  "Create Date": "2024-08-20 13:31:08.590+0200",
+  "Create Seconds Epoch": "1724153468.594",
   "Trigger": "Motion",
   "Subject Distance": 0,
   "Exposure Time": "1/33",
@@ -12,6 +12,6 @@
   },
   "Annotation": {
     "Source": "Ollama:7b",
-    "Text": " Rubber ducks on a table. "
+    "Text": " A hand holding a rubber duck. "
   }
 }
