@@ -1,0 +1,17 @@
+{
+  "File Name": "20240820_130346_External.jpg",
+  "Create Date": "2024-08-20 13:03:48.096+0200",
+  "Create Seconds Epoch": 1724151828.098,
+  "Trigger": "External",
+  "Subject Distance": 0.5574136009,
+  "Exposure Time": "1/33",
+  "ISO": 200,
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": 1724151858
+  },
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " Duck with red beak sitting next to a magazine. "
+  }
+}

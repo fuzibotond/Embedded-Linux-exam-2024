@@ -1,0 +1,17 @@
+{
+  "File Name": "20240820_130325_motion_detected.jpg",
+  "Create Date": "2024-08-20 13:03:34.940+0200",
+  "Create Seconds Epoch": "1724151814.942",
+  "Trigger": "Motion",
+  "Subject Distance": 0,
+  "Exposure Time": "1/33",
+  "ISO": 200,
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": 1724151858
+  },
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " A book titled \"Tales of the Kobold\" sits on a table, with a duck figure positioned in front of it. "
+  }
+}
