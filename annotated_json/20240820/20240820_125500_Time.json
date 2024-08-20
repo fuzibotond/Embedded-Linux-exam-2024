@@ -8,10 +8,10 @@
   "ISO": 200,
   "Drone Copy": {
     "Drone ID": "WILDDRONE-001",
-    "Seconds Epoch": 1724151358
+    "Seconds Epoch": 1724151485
   },
   "Annotation": {
     "Source": "Ollama:7b",
-    "Text": " Rubber duck floating on top of a pool. "
+    "Text": " Rubber duck on the top of a magazine. "
   }
 }
