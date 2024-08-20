@@ -1,0 +1,17 @@
+{
+  "File Name": "20240820_125500_Time.jpg",
+  "Create Date": "2024-08-20 12:55:02.902+0200",
+  "Create Seconds Epoch": 1724151302.904,
+  "Trigger": "Time",
+  "Subject Distance": 0.5574136009,
+  "Exposure Time": "1/33",
+  "ISO": 200,
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": 1724151358
+  },
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " Rubber duck floating on top of a pool. "
+  }
+}
