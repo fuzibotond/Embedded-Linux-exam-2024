@@ -1,0 +1,17 @@
+{
+  "File Name": "20240820_131529_motion_detected.jpg",
+  "Create Date": "2024-08-20 13:15:38.555+0200",
+  "Create Seconds Epoch": "1724152538.557",
+  "Trigger": "Motion",
+  "Subject Distance": 0,
+  "Exposure Time": "1/33",
+  "ISO": 200,
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": 1724152626
+  },
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " A playful scene with a book and a rubber duck. "
+  }
+}
