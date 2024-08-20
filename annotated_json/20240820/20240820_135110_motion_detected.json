@@ -1,0 +1,17 @@
+{
+  "File Name": "20240820_135110_motion_detected.jpg",
+  "Create Date": "2024-08-20 13:51:22.516+0200",
+  "Create Seconds Epoch": "1724154682.520",
+  "Trigger": "Motion",
+  "Subject Distance": 0,
+  "Exposure Time": "1/33",
+  "ISO": 200,
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": 1724154693
+  },
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " Two rubber ducks in the foreground, a photo of a book with an image of a log cabin and wilderness, in the background. "
+  }
+}
